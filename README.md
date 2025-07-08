@@ -25,7 +25,7 @@ A simple and user-friendly GUI application that detects and blurs faces in **PNG
 
 ## 📷 GUI Preview
 
-![GUI Screenshot](screenshorts\gui-image-blur.png)
+![GUI Screenshot](screenshorts/gui-image-blur.png)
 
 ---
 
@@ -33,7 +33,7 @@ A simple and user-friendly GUI application that detects and blurs faces in **PNG
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/face-blur-images-gui.git
+git clone https://github.com/Himanshu-soni3185/face-blur-images-gui.git
 
 # Install dependencies
 pip install opencv-python Pillow
